@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Repositório criado como parte dos estudos do curso do Filipe Deschamps [curso.dev](https://curso.dev/).
+Repositório criado como parte dos estudos do Curso de Programação do Filipe Deschamps [curso.dev](https://curso.dev/).
