@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/paulofachini/clone-tabnews#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "dependencies": {
     "next": "^15.5.3",
