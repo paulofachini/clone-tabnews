@@ -14,11 +14,16 @@
   },
   "homepage": "https://github.com/paulofachini/clone-tabnews#readme",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "dependencies": {
     "next": "^15.5.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
